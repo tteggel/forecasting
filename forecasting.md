@@ -1,27 +1,34 @@
 # Probablistic Forecasting for Software Engineering
 
-## Thom Leggett
+## [tteggel.org/forecasting][this]
 
-thom@tteggel.org
+[this]: http://tteggel.org/forecasting
 
-@thomleggett
+.fx: titleslide
 
 ---
 
-# Credits
+## Thom Leggett
+
+[@thomleggett][] | [thom@tteggel.org][]
+
+[thom@tteggel.org]: mailto:thom@tteggel.org "Primary email"
+[@thomleggett]: https://twitter.com/thomleggett "Twitter @thomleggett"
+
+## Giants
 
 * Troy Magennis [@t_magennis][]
-* Glenn Alleman [@galleman][] [blog][herdingcats]
-* Vasco Duarte [@duarte_vasco][] [blog][vascoblog]
+* Glenn Alleman ([@galleman][] | [blog][herdingcats])
+* Vasco Duarte ([@duarte_vasco][] | [blog][vascoblog])
 * Douglas W. Hubbard
 * Sam L. Savage
 
-[@t_magennis]: https://twitter.com/t_magennis
-[@galleman]: https://twitter.com/galleman
-[@duarte_vasco]: https://twitter.com/duarte_vasco
+[@t_magennis]: https://twitter.com/t_magennis "Twitter @t_magennis"
+[@galleman]: https://twitter.com/galleman "Twitter @galleman"
+[@duarte_vasco]: https://twitter.com/duarte_vasco "Twitter @duarte_vasco"
 
-[herdingcats]: http://herdingcats.typepad.com/
-[vascoblog]: http://softwaredevelopmenttoday.blogspot.co.uk/
+[herdingcats]: http://herdingcats.typepad.com/ "Glenn Alleman's blog"
+[vascoblog]: http://softwaredevelopmenttoday.blogspot.co.uk/ "Vasco Duarte's blog"
 ---
 
 # #NoEstimates
@@ -63,5 +70,3 @@ thom@tteggel.org
 # A theorem for planning
 
 ![FAC](fac.svg)
-
----
