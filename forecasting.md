@@ -57,7 +57,7 @@
 
 # Central Limit Theorem
 
-![Rolling dice](http://upload.wikimedia.org/wikipedia/commons/8/8c/Dice_sum_central_limit_theorem.svg)
+![Rolling dice](Dice_sum_central_limit_theorem.svg)
 
 .notes: Image credit: http://commons.wikimedia.org/wiki/File:Dice_sum_central_limit_theorem.svg
 
