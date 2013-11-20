@@ -49,6 +49,10 @@
 
 "Ummm, yeah, I guess?" _(We have an upper bound)_
 
+# Presenter Notes
+* Plus expected.
+* Triangular distribution.
+
 ---
 
 # Central Limit Theorem
@@ -61,9 +65,18 @@
 
 # Dependencies
 
+# Presenter Notes
+* Combine deps with central limit theorem.
+* Will tend to converge to average as estimates have mean + variance.
+* Mention flaw of averages here?
+
 ---
 
 # All together now
+
+# Presenter Notes
+* Monte Carlo simulation.
+* Hidden Markov Networks for big programmes.
 
 ---
 
